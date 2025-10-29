@@ -1,0 +1,35 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-CTzdisCt.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-x7iOeqoW.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/V1/Forms/ContactForm.tsx"
+    ],
+    "css": [
+      "assets/app-CTzdisCt.css"
+    ]
+  },
+  "resources/js/pages/V1/Forms/ContactForm.tsx": {
+    "file": "assets/ContactForm-DwgYAxYX.js",
+    "name": "ContactForm",
+    "src": "resources/js/pages/V1/Forms/ContactForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ],
+    "css": [
+      "assets/ContactForm-DvM6SIS3.css",
+      "assets/app-CTzdisCt.css"
+    ]
+  }
+}

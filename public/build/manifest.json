@@ -1,6 +1,6 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-CTzdisCt.css",
+    "file": "assets/app-6jYn7Sun.css",
     "src": "resources/css/app.css",
     "isEntry": true,
     "names": [
@@ -8,7 +8,7 @@
     ]
   },
   "resources/js/app.tsx": {
-    "file": "assets/app-x7iOeqoW.js",
+    "file": "assets/app-s8dE6ov-.js",
     "name": "app",
     "src": "resources/js/app.tsx",
     "isEntry": true,
@@ -16,11 +16,11 @@
       "resources/js/pages/V1/Forms/ContactForm.tsx"
     ],
     "css": [
-      "assets/app-CTzdisCt.css"
+      "assets/app-6jYn7Sun.css"
     ]
   },
   "resources/js/pages/V1/Forms/ContactForm.tsx": {
-    "file": "assets/ContactForm-DwgYAxYX.js",
+    "file": "assets/ContactForm-DzDIyVNM.js",
     "name": "ContactForm",
     "src": "resources/js/pages/V1/Forms/ContactForm.tsx",
     "isDynamicEntry": true,
@@ -29,7 +29,7 @@
     ],
     "css": [
       "assets/ContactForm-DvM6SIS3.css",
-      "assets/app-CTzdisCt.css"
+      "assets/app-6jYn7Sun.css"
     ]
   }
 }

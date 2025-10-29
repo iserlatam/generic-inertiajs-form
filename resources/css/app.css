@@ -141,5 +141,5 @@
 }
 
 .react-international-phone-input {
-    width: 100%;
+    @apply w-full;
 }
